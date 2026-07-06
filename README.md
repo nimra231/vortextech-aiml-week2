@@ -1,5 +1,4 @@
 # vortextech-aiml-week2
-# vortextech-aiml-week2
 
 Week 2 task for the VortexTech AI & ML Internship: building a classification model with scikit-learn.
 
